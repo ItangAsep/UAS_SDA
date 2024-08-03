@@ -4,6 +4,13 @@ using namespace std; //untuk mempermudah / menghilangkan std:: pada setiap awala
 
 const int jumlah = 9;  // Ukuran array ( jumlah array yang disimpan )
 
+/*
+* Nama : Itang Asep Sopiandi
+* NIM : 230401010045
+* kelas : IT201
+* MK : Struktur data dan algoritma
+*/
+
 int main() {
     int arr[jumlah] = { 19, 40, 10, 90, 2, 50, 60, 50, 1 }; //memasukan isi dari array yang sudah ada pada soal
 
